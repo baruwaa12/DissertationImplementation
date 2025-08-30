@@ -1,0 +1,83 @@
+This is a 10000-byte test file for cryptographic performance testing. The content is deliberately made longer to test how the algorithms perform with larger messages. We'll repeat this text multiple times to reach the desired size.
+
+The following section will be repeated to achieve the target file size:
+
+Performance testing of cryptographic algorithms requires various message sizes to understand how they scale. RSA+AES hybrid encryption combines the benefits of asymmetric and symmetric cryptography, using RSA for key exchange and AES for bulk data encryption. Meanwhile, Kyber represents the future of cryptography, designed to be resistant against quantum computer attacks.
+
+When testing cryptographic algorithms, we need to consider several factors:
+1. Key generation time
+2. Encryption/encapsulation time
+3. Decryption/decapsulation time
+4. CPU usage
+5. Memory requirements
+6. Message size impact
+7. Network bandwidth considerations
+8. Implementation complexity
+9. Platform compatibility
+10. Security level requirements
+
+This text block will be repeated multiple times to create a large test file that helps evaluate how these algorithms perform with substantial amounts of data. The comparison between classical and post-quantum cryptography is essential for understanding their practical implications in real-world scenarios.
+
+[REPEAT SECTION START]
+Testing cryptographic performance requires thorough analysis and multiple iterations. We need to ensure that our results are statistically significant and that we account for various factors that might affect performance. This includes system load, CPU scheduling, memory availability, and other environmental factors.
+
+The transition to post-quantum cryptography presents unique challenges and opportunities. While classical algorithms like RSA have been thoroughly tested and optimized over decades, newer post-quantum algorithms like Kyber are still being studied and improved. Understanding their performance characteristics is crucial for planning future deployments.
+
+Some key considerations for cryptographic implementation include:
+- Security level and key sizes
+- Performance impact on different platforms
+- Implementation complexity
+- Memory and storage requirements
+- Network bandwidth usage
+- Processing power requirements
+- Algorithm maturity and standardization
+- Compatibility with existing systems
+- Future-proofing considerations
+- Deployment challenges
+
+Each of these factors plays a crucial role in determining the practical applicability of cryptographic algorithms in real-world scenarios. By testing with different message sizes, we can better understand how these algorithms scale and what their limitations might be.
+
+Performance testing methodology should consider:
+1. Message size variations
+2. Hardware dependencies
+3. Operating system impacts
+4. Network conditions
+5. Concurrent operations
+6. Memory constraints
+7. CPU architecture differences
+8. Implementation optimizations
+9. Error handling overhead
+10. Security level trade-offs
+
+The cryptographic landscape is constantly evolving, with new threats emerging and new solutions being developed. Understanding the performance characteristics of both classical and post-quantum algorithms is essential for making informed decisions about cryptographic implementations.
+
+Additional considerations for comprehensive testing:
+- Batch processing capabilities
+- Key management overhead
+- Certificate handling
+- Protocol integration
+- Error recovery mechanisms
+- Side-channel resistance
+- Implementation verification
+- Compliance requirements
+- Interoperability testing
+- Performance monitoring
+
+These aspects must be carefully evaluated to ensure that the chosen cryptographic solution meets both security requirements and performance expectations. Regular testing and monitoring help maintain optimal performance while ensuring security objectives are met.
+[REPEAT SECTION END]
+
+The above section will be repeated as needed to reach approximately 10000 bytes. This helps create a realistic test scenario for large messages that might be encountered in practical applications. The results from these tests will provide valuable insights into the performance characteristics of both classical and post-quantum cryptographic algorithms.
+
+Performance testing with larger messages is particularly important because:
+1. It helps identify potential bottlenecks in the implementation
+2. Reveals how well the algorithms scale with increasing data size
+3. Demonstrates real-world performance characteristics
+4. Helps in capacity planning and system sizing
+5. Identifies potential optimization opportunities
+6. Shows the impact of hardware limitations
+7. Reveals memory management issues
+8. Helps understand network impact
+9. Demonstrates practical limitations
+10. Guides implementation decisions
+
+The comprehensive testing approach using various message sizes provides a more complete picture of the algorithms' behavior under different conditions. This information is valuable for both research purposes and practical implementations in production systems.

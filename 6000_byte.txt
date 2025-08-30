@@ -1,0 +1,33 @@
+This is a 6000-byte test file for cryptographic performance testing. The content is deliberately made longer to test how the algorithms perform with medium-sized messages. We'll repeat this text multiple times to reach the desired size.
+
+The following section will be repeated to achieve the target file size:
+
+Performance testing of cryptographic algorithms requires various message sizes to understand how they scale. RSA+AES hybrid encryption combines the benefits of asymmetric and symmetric cryptography, using RSA for key exchange and AES for bulk data encryption. Meanwhile, Kyber represents the future of cryptography, designed to be resistant against quantum computer attacks.
+
+When testing cryptographic algorithms, we need to consider several factors:
+1. Key generation time
+2. Encryption/encapsulation time
+3. Decryption/decapsulation time
+4. CPU usage
+5. Memory requirements
+6. Message size impact
+
+This text block will be repeated multiple times to create a medium-sized test file that helps evaluate how these algorithms perform with larger amounts of data. The comparison between classical and post-quantum cryptography is essential for understanding their practical implications.
+
+[REPEAT SECTION START]
+Testing cryptographic performance requires thorough analysis and multiple iterations. We need to ensure that our results are statistically significant and that we account for various factors that might affect performance. This includes system load, CPU scheduling, memory availability, and other environmental factors.
+
+The transition to post-quantum cryptography presents unique challenges and opportunities. While classical algorithms like RSA have been thoroughly tested and optimized over decades, newer post-quantum algorithms like Kyber are still being studied and improved. Understanding their performance characteristics is crucial for planning future deployments.
+
+Some key considerations for cryptographic implementation include:
+- Security level and key sizes
+- Performance impact on different platforms
+- Implementation complexity
+- Memory and storage requirements
+- Network bandwidth usage
+- Processing power requirements
+
+Each of these factors plays a crucial role in determining the practical applicability of cryptographic algorithms in real-world scenarios. By testing with different message sizes, we can better understand how these algorithms scale and what their limitations might be.
+[REPEAT SECTION END]
+
+The above section will be repeated as needed to reach approximately 6000 bytes. This helps create a realistic test scenario for medium-sized messages that might be encountered in practical applications. The results from these tests will provide valuable insights into the performance characteristics of both classical and post-quantum cryptographic algorithms.

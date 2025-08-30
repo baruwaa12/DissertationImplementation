@@ -1,0 +1,22 @@
+This is a medium-sized text sample for testing cryptographic algorithms. The content is designed to provide a moderate amount of data for performance testing.
+
+When evaluating cryptographic algorithms, it's important to test with different message sizes to understand their behavior and performance characteristics. This medium-sized sample helps us analyze:
+
+1. Encryption and decryption speeds
+2. Memory usage patterns
+3. Processing overhead
+4. Algorithm efficiency
+5. Resource utilization
+
+The RSA+AES hybrid encryption system combines the security of asymmetric cryptography with the efficiency of symmetric encryption. Meanwhile, Kyber provides quantum-resistant security through its lattice-based approach.
+
+This sample text provides enough content to meaningfully test both algorithms while remaining manageable for quick iterations. The results from these tests will help us understand how each algorithm performs with moderate-sized messages in real-world scenarios.
+
+Testing with medium-sized messages is particularly important because it represents a common use case in many applications, such as:
+- Email content
+- Document encryption
+- Secure messaging
+- API responses
+- Configuration data
+
+By analyzing the performance with this sample size, we can make informed decisions about which cryptographic solution best suits specific use cases while maintaining an appropriate balance between security and efficiency.

@@ -1,0 +1,52 @@
+{
+    "system_info": {
+        "os": "Windows 10",
+        "python_version": "3.10.9 (main, Jan 14 2023, 21:23:14)  [GCC 12.2.0 64 bit (AMD64)]",
+        "processor": "AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD",
+        "machine": "AMD64",
+        "cpu_count": 16,
+        "packages": {
+            "pycryptodome": "3.21.0",
+            "kyber-py": "1.0.1",
+            "plotly": "6.0.0"
+        },
+        "timestamp": "2025-03-17 10:47:29"
+    },
+    "test_parameters": {
+        "message_size": 3344,
+        "iterations": 100,
+        "rsa_key_size": 2048,
+        "kyber_variant": "Kyber512",
+        "aes_key_size": 256
+    },
+    "results": {
+        "rsa_times": {
+            "keygen": 0.8398583500023232,
+            "key_encrypt": 0.0007317029975820332,
+            "msg_encrypt": 0.0002926950046094134,
+            "key_decrypt": 0.0034173060033936054,
+            "msg_decrypt": 0.00029714400006923823
+        },
+        "rsa_stdevs": {
+            "keygen": 0.5478571228397765,
+            "key_encrypt": 9.779646222952759e-05,
+            "msg_encrypt": 9.645431303407003e-05,
+            "key_decrypt": 0.0004426899901361541,
+            "msg_decrypt": 9.314403630083849e-05
+        },
+        "kyber_times": {
+            "keygen": 0.0026219160004984587,
+            "encaps": 0.0035445799969602374,
+            "decaps": 0.005060365004464984
+        },
+        "kyber_stdevs": {
+            "keygen": 0.00028392005968565573,
+            "encaps": 0.0003368830598466014,
+            "decaps": 0.0005727733133686813
+        },
+        "cpu_times": {
+            "rsa_aes": 84.15625,
+            "kyber": 1.171875
+        }
+    }
+}
